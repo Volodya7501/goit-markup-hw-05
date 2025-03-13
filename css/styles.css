@@ -587,6 +587,8 @@ body {
 }
 
 .footer-form-label {
+  /* width: 264px;
+  height: 40px; */
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -600,6 +602,8 @@ body {
   letter-spacing: 0.02em;
   color: #ffffff;
   margin-bottom: 16px;
+  width: 264px;
+  height: 40px;
 }
 
 .footer-subs-form {
@@ -612,9 +616,9 @@ body {
 
 .footer-input-email {
   border: 1px solid #ffffff;
-  /* border-radius: 4px; */
-  /* width: 264px; */
-  /* height: 40px; */
+  border-radius: 4px;
+  width: 264px;
+  height: 40px;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background-color: transparent;
   padding-left: 16px;
